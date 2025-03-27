@@ -24,6 +24,11 @@ namespace LAB1
         {
 
         }
+
+        private void labelInfAboutUsers_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

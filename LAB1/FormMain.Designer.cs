@@ -70,14 +70,14 @@
             panel2.Size = new Size(684, 461);
             panel2.TabIndex = 1;
             // 
-            // labelinfAboutUsers
+            // labelInfAboutUsers
             // 
             labelInfAboutUsers.Dock = DockStyle.Fill;
             labelInfAboutUsers.Location = new Point(10, 10);
-            labelInfAboutUsers.Name = "labelinfAboutUsers";
+            labelInfAboutUsers.Name = "labelInfAboutUsers";
             labelInfAboutUsers.Size = new Size(664, 441);
             labelInfAboutUsers.TabIndex = 0;
-            labelInfAboutUsers.Text = "label1";
+            labelInfAboutUsers.Click += labelInfAboutUsers_Click;
             // 
             // FormMain
             // 
